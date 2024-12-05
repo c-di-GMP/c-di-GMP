@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @c-di-GMP
 - 👀 I’m interested in neuroscience.
-- 🌱 I’m currently learning Matlab and C#.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me xiay2024@ion.ac.cn
 
 <!---
